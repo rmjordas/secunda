@@ -4,7 +4,7 @@
   <p>A simple dark theme for coding at night</p>
 
   <a href="https://marketplace.visualstudio.com/items?itemName=ruj.secunda">
-    <img src="https://flat.badgen.net/vs-marketplace/v/secunda" alt="VS Marketplace">
+    <img src="https://flat.badgen.net/vs-marketplace/v/ruj.secunda" alt="VS Marketplace">
   </a>
 
   <a href="https://github.com/rmjordas/secunda/blob/master/LICENSE">
