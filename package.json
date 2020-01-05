@@ -1,0 +1,49 @@
+{
+  "name": "secunda",
+  "version": "1.0.0",
+  "displayName": "Secunda",
+  "description": "A simple dark theme for coding at night",
+  "author": "Rodger Jordas <rmjordas@gmail.com> (https://rmjordas.github.io)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmjordas/secunda.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rmjordas/secunda/issues"
+  },
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#26292C",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "keywords": [
+    "color theme",
+    "dark",
+    "dark theme",
+    "secunda",
+    "night",
+    "theme"
+  ],
+  "license": "MIT",
+  "publisher": "ruj",
+  "contributes": {
+    "themes": [
+      {
+        "id": "Secunda",
+        "label": "Secunda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/secunda-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "prettier": "1.19.1",
+    "vsce": "1.71.0"
+  }
+}
