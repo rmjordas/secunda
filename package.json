@@ -1,12 +1,13 @@
 {
   "name": "secunda",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Secunda",
   "description": "A simple dark theme for coding at night",
   "author": "Rodger Jordas <rmjordas@gmail.com> (https://rmjordas.github.io)",
+  "homepage": "https://github.com/rmjordas/secunda/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rmjordas/secunda.git"
+    "url": "https://github.com/rmjordas/secunda.git"
   },
   "bugs": {
     "url": "https://github.com/rmjordas/secunda/issues"
