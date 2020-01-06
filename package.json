@@ -1,6 +1,6 @@
 {
   "name": "secunda",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "displayName": "Secunda",
   "description": "A simple dark theme for coding at night",
   "author": "Rodger Jordas <rmjordas@gmail.com> (https://rmjordas.github.io)",
@@ -19,7 +19,7 @@
     "Themes"
   ],
   "galleryBanner": {
-    "color": "#26292C",
+    "color": "#26292c",
     "theme": "dark"
   },
   "icon": "images/icon.png",
@@ -43,8 +43,11 @@
       }
     ]
   },
+  "scripts": {
+    "package": "vsce package"
+  },
   "devDependencies": {
-    "prettier": "1.19.1",
-    "vsce": "1.71.0"
+    "prettier": "^1.19.1",
+    "vsce": "^1.71.0"
   }
 }
