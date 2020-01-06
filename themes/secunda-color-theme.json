@@ -74,8 +74,8 @@
     "tab.hoverBackground": "#ffffff10",
     "tab.border": "#ffffff10",
     "tab.inactiveBackground": "#26292C",
-    "textLink.foreground": "#ffffff40",
-    "textLink.activeForeground": "#DDDDDD"
+    "textLink.foreground": "#BB99BB",
+    "textLink.activeForeground": "#CC66CC"
   },
   "tokenColors": [
     {
