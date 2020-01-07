@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/ogimage.png" alt="Secunda icon">
+  <img src="./images/ogimage.png" alt="Secunda icon" width="420">
 
   <h1>Secunda</h1>
 
@@ -13,6 +13,8 @@
     <img src="https://flat.badgen.net/badge/license/MIT/orange" alt="MIT License">
   </a>
 </div>
+
+<br />
 
 ![Workspace](images/workspace.png)
 
