@@ -1,5 +1,11 @@
 # Change Log
 
+<a name="v1.1.3"></a>
+
+## [v1.1.3](https://github.com/rmjordas/secunda/compare/v1.1.2...v1.1.3) (2020-01-08)
+
+- Fix README banner width
+
 <a name="v1.1.2"></a>
 
 ## [v1.1.2](https://github.com/rmjordas/secunda/compare/v1.1.1...v1.1.2) (2020-01-08)
