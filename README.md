@@ -18,9 +18,11 @@
 > removing explorer badges, indent lines, etc. are applied to VS Code to achive
 > the minimal layout shown in the screenshot.
 
-## Inspiration
+## Acknowledgment
 
 - [Ra Eyeful](https://github.com/rahmanyerli/ra-eyeful) by Rahman Yerli
+- [Halloween full moon](https://www.creativetail.com/35-flat-scary-icons/) by
+  Creative Tail
 
 ## License
 
