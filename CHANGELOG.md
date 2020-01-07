@@ -1,5 +1,11 @@
 # Change Log
 
+<a name="v1.1.2"></a>
+
+## [v1.1.2](https://github.com/rmjordas/secunda/compare/v1.1.1...v1.1.2) (2020-01-08)
+
+- Update README banner
+
 <a name="v1.1.1"></a>
 
 ## [v1.1.1](https://github.com/rmjordas/secunda/compare/v1.1.0...v1.1.1) (2020-01-08)
