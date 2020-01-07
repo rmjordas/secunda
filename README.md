@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./images/ogimage.png" alt="Secunda icon">
+
   <h1>Secunda</h1>
 
   <p>A simple dark theme for coding at night</p>
