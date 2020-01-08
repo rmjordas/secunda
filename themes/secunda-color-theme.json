@@ -50,7 +50,7 @@
     "editorLineNumber.activeForeground": "#999999",
     "editorLineNumber.foreground": "#666666",
     "icon.foreground": "#dddddd",
-    "focusBorder": "#ffffff40",
+    "focusBorder": "#eebb9970",
     "gitDecoration.untrackedResourceForeground": "#88bb88",
     "gitDecoration.deletedResourceForeground": "#cc3333",
     "input.background": "#232629",
