@@ -73,7 +73,7 @@
     "peekViewTitleDescription.foreground": "#997766",
     "quickInput.background": "#232629",
     "quickInput.foreground": "#dddddd",
-    "selection.background": "#eebb99",
+    "selection.background": "#eebb9970",
     "settings.headerForeground": "#dddddd",
     "settings.modifiedItemIndicator": "#cc9988",
     "sideBar.background": "#26292c",
