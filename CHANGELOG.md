@@ -1,5 +1,14 @@
 # Change Log
 
+<a name="v1.2.0"></a>
+
+## [v1.2.0](https://github.com/rmjordas/secunda/compare/v1.1.3...v1.2.0) (2020-01-08)
+
+- Add more theme rules
+- Fix button colors
+- Fix focus border colors
+- Fix text link colors
+
 <a name="v1.1.3"></a>
 
 ## [v1.1.3](https://github.com/rmjordas/secunda/compare/v1.1.2...v1.1.3) (2020-01-08)
