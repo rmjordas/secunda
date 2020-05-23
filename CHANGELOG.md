@@ -1,5 +1,12 @@
 # Change Log
 
+<a name="1.3.1"></a>
+
+## [1.3.1](https://github.com/rmjordas/secunda/compare/v1.3.0...1.3.1) (2020-05-23)
+
+- Fix search match highlight colors
+- Fix minor formatting issues
+
 <a name="v1.3.0"></a>
 
 ## [v1.3.0](https://github.com/rmjordas/secunda/compare/v1.2.0...v1.3.0) (2020-01-09)
