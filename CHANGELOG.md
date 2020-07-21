@@ -1,8 +1,15 @@
 # Change Log
 
-<a name="1.3.1"></a>
+<a name="v1.3.2"></a>
 
-## [1.3.1](https://github.com/rmjordas/secunda/compare/v1.3.0...1.3.1) (2020-05-23)
+## [v1.3.2](https://github.com/rmjordas/secunda/compare/v1.3.1...v1.3.2) (2020-07-21)
+
+- Fix extension install button colors
+- Remove invalid rule
+
+<a name="v1.3.1"></a>
+
+## [v1.3.1](https://github.com/rmjordas/secunda/compare/v1.3.0...v1.3.1) (2020-05-23)
 
 - Fix search match highlight colors
 - Fix minor formatting issues
