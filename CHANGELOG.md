@@ -1,5 +1,11 @@
 # Change Log
 
+<a name="v1.3.3"></a>
+
+## [v1.3.3](https://github.com/rmjordas/secunda/compare/v1.3.1...v1.3.3) (2020-07-21)
+
+- Fix minor formatting issues
+
 <a name="v1.3.2"></a>
 
 ## [v1.3.2](https://github.com/rmjordas/secunda/compare/v1.3.1...v1.3.2) (2020-07-21)
