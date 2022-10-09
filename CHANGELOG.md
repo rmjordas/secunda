@@ -1,8 +1,15 @@
 # Change Log
 
+<a name="v1.3.4"></a>
+
+## [v1.3.4](https://github.com/rmjordas/secunda/compare/v1.3.3...v1.3.4) (2022-10-09)
+
+- Fix color for extension page button dropdown
+- Update package manifest
+
 <a name="v1.3.3"></a>
 
-## [v1.3.3](https://github.com/rmjordas/secunda/compare/v1.3.1...v1.3.3) (2020-07-21)
+## [v1.3.3](https://github.com/rmjordas/secunda/compare/v1.3.2...v1.3.3) (2020-07-21)
 
 - Fix minor formatting issues
 
@@ -25,7 +32,7 @@
 ## [v1.3.0](https://github.com/rmjordas/secunda/compare/v1.2.0...v1.3.0) (2020-01-09)
 
 - Add terminal colors
-- Add more theme rules
+- Add theme rules
 - Fix selection background color
 - Fix text link active foreground color
 
@@ -33,7 +40,7 @@
 
 ## [v1.2.0](https://github.com/rmjordas/secunda/compare/v1.1.3...v1.2.0) (2020-01-08)
 
-- Add more theme rules
+- Add theme rules
 - Fix button colors
 - Fix focus border colors
 - Fix text link colors
