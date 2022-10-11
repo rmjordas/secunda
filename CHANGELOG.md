@@ -1,5 +1,12 @@
 # Change Log
 
+<a name="v1.4.0"></a>
+
+## [v1.4.0](https://github.com/rmjordas/secunda/compare/v1.3.4...v1.4.0) (2022-10-11)
+
+- Add theme rule for inlay hints
+- Update package manifest
+
 <a name="v1.3.4"></a>
 
 ## [v1.3.4](https://github.com/rmjordas/secunda/compare/v1.3.3...v1.3.4) (2022-10-09)
