@@ -27,6 +27,8 @@
     "dropdown.border": "#ffffff20",
     "dropdown.foreground": "#dddddd",
     "dropdown.listBackground": "#232629",
+    "editorInlayHint.background": "#00000000",
+    "editorInlayHint.foreground": "#999999",
     "editor.background": "#26292c",
     "editor.findMatchBackground": "#ffffff30",
     "editor.findMatchHighlightBackground": "#ffffff20",
